@@ -1,4 +1,4 @@
-# SQL-Data-Analysi-Portfolio
+# SQL-Data-Analytisc-Portfolio
 Water Sources Data Analysis 
 
 These projects were created to show my skills in Data Analysis and SQL Development. 
