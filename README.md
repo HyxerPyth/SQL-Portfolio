@@ -1,7 +1,7 @@
 # SQL-Data-Analysis
 Water Sources Data Analysis 
 
-This project was created to show the problems related to water sources in the world. 
+These projects were created to show my skills in Data Analysis and SQL Development. 
 
 Skills that were used in this project: 
 
@@ -18,6 +18,3 @@ Skills that were used in this project:
  - Creating Views, 
 
  - Converting Data Types
-
-
-Information was collected from the website "Our World In Data" 
